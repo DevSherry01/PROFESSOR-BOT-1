@@ -77,8 +77,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DevSherry01/PROFESSOR-BOT-1)
 
-[![Deploy](https://app.cyclic.sh/#/deploy/button.svg)](https://app.cyclic.sh/#/deploy?template=https://github.com/DevSherry01/PROFESSOR-BOT-1)
-
 
 ## Deploy to Koyeb
 
